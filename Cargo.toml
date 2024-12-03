@@ -1,10 +1,17 @@
 [package]
 name = "rustivity"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
 description = "An easy to use & 0 dependency reactivity crate"
 keywords = ["lib","reactivity","zero-cost"]
 publish = true
+authors =["Andy Garcia <garciandy579@gmail.com>"]
+documentation = "https://docs.rs/rustivity"
+repository = "https://github.com/garcia-andy/rustivity"
+homepage = "https://github.com/garcia-andy/rustivity"
+
+[badges]
+maintenance = { status = "actively-developed" }
 
 [dependencies]
