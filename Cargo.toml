@@ -1,0 +1,10 @@
+[package]
+name = "rustivity"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "An easy to use & 0 dependency reactivity crate"
+keywords = ["lib","reactivity","zero-cost"]
+publish = true
+
+[dependencies]
